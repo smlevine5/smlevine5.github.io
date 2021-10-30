@@ -1,5 +1,5 @@
 * {
-	font-family: Arial, Versana sans-serif;
+	font-family: "Arial", Verdana, sans-serif;
 	color: #171618;
 	text-align: center;
 }
@@ -57,7 +57,11 @@ article {
 }
 
 h2 {
-	font-family: cursive, sans-serif !important;
+	font-family:cursive, serif !important;
+}
+
+h3{
+	font-family: helvetica, sans-serif !important;
 }
 
 
